@@ -1,0 +1,1 @@
+Case-study hero artwork is stored here as lightweight SVG assets so every project page has a reliable, fast-loading visual without external image dependencies.
